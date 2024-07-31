@@ -10,5 +10,6 @@ This repository is for KY's **computer architecture** study, and the referenced 
 [18-447 Introduction to Computer Architecture – Spring 2015,CMU](https://course.ece.cmu.edu/~ece447/s15/doku.php)
 
 [Syllabus](https://course.ece.cmu.edu/~ece447/s15/lib/exe/fetch.php?media=syllabus-18-447-mutlu-s15.pdf)
+[Schedule](https://course.ece.cmu.edu/~ece447/s15/doku.php?id=schedule)
 
-[[Lec1]][video](https://www.youtube.com/watch?v=zLP_X4wyHbY)[pdf](https://course.ece.cmu.edu/~ece447/s15/lib/exe/fetch.php?media=onur-447-spring15-lecture1-intro-afterlecture.pdf)
+[Lec1][video](https://www.youtube.com/watch?v=zLP_X4wyHbY) [pdf](https://course.ece.cmu.edu/~ece447/s15/lib/exe/fetch.php?media=onur-447-spring15-lecture1-intro-afterlecture.pdf)
